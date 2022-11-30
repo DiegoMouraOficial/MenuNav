@@ -1,6 +1,12 @@
 <h1 align="center"> 📚 Menu Project </h1>
 
-<p align="center">Projeto de Menu usando HTML e CSS intermediário</p>
+<p align="center">Projeto de Menu para treinar o HTML e CSS intermediário</p>
+
+<br>
+
+<p align="center">
+        <img src="img/menu.jpg"alt="Projeto Menu">
+</p>
 
 <h3> 🤝 Contribuindo </h3>
 <p>
