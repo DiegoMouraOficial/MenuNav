@@ -7,7 +7,7 @@ Este projeto consiste na criação de um menu com sub-menus utilizando HTML e CS
 </p>
 
 <p align="center">
-        <img src="img/menu.jpg"alt="Projeto Menu">
+        <img src="img/menuImage.gif"alt="Projeto Menu">
 </p>
 
 ## 🤝 Faça sua Contribuição 
